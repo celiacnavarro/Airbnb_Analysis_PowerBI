@@ -38,7 +38,6 @@ Airbnb_Analysis_PowerBI
 │   │   Report_Airbnb-1.png
 |   |   Report_Airbnb-2.png
 │   │   Report_Airbnb-3.png
-│
 
  ```
 
