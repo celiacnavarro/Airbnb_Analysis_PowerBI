@@ -1,4 +1,4 @@
-![Report](https://github.com/celiacnavarro/Airbnb_Analysis_PowerBI/blob/main/img/Report_Airbnb-1.png "Report")
+![Report](https://github.com/celiacnavarro/Airbnb_Analysis_PowerBI/blob/main/img/img%20(1).png "Report")
 # Power BI Report: Airbnb Data Analysis
 
 This repository contains a Power BI report that provides insights into Airbnb data from several cities around the world. The report is designed to help users better understand the different types of accommodations available on Airbnb, the hosting trends in each city, and the financial aspects of Airbnb hosting.
